@@ -12,8 +12,6 @@
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/SpiderserTG/HulkBusterBot)   
 [![Contributors](https://img.shields.io/github/contributors/SpideyserTG/HulkBusterBot?style=flat-square&color=green)](https://github.com/SpideyserTG/HulkBusterBot/graphs/contributors)
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/SpiderserTG/HulkBusterBot/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/SpideyserTG/HulkBusterBot.svg)](https://stars.medv.io/SpideyserTG/HulkBusterBot)
-
 
 ## Features
 
