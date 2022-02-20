@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/203df668fcdf0a379a5cf.jpg" alt="HulkBuster">
+  <img src="https://telegra.ph/file/430d2309b3ee277b4da8b.jpg" alt="HulkBuster">
 </p>
 <h1 align="center">
   <b>Movie World × HulkBuster</b>
@@ -132,6 +132,4 @@ Licensed under [GNU AGPL 2.0.](https://github.com/EvamariaTG/evamaria/blob/maste
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 ## Inspiration
-This is an attempt to create a clone of a BOAT made out of [banana trees 🌳](https://telegram.dog/GetTGLink/4187)
-
-[![For Vaza](https://telegra.ph/file/e743b0c8a04252774bac2.jpg)](https://telegra.ph/file/98342dc186fd7484cba91.mp4 "Oru Kootam Vazhakalk samarpikkunnu")
+ Collaboration with Different Spicial Charector 
