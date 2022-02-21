@@ -10,7 +10,7 @@
 [![Forks](https://img.shields.io/github/forks/SpideyserTG/HulkBusterBot?style=curve-square&color=orange)](https://github.com/SpideyserTG/HulkBusterBot/fork)
 [![Size](https://img.shields.io/github/repo-size/SpideyserTG/HulkBusterBot?style=curve-square&color=green)](https://github.com/SpideyserTG/HulkBusterBot/)   
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/SpiderserTG/HulkBusterBot)   
-[![Contributors](https://img.shields.io/github/contributors/SpideyserTG/HulkBusterBot?style=flat-square&color=green)](https://github.com/SpideyserTG/HulkBusterBot/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/SpideyserTG/HulkBusterBot?style=curve-square&color=green)](https://github.com/SpideyserTG/HulkBusterBot/graphs/contributors)
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/SpiderserTG/HulkBusterBot/blob/main/LICENSE)
 
 ## Features
@@ -29,6 +29,12 @@
 - [x] Spelling Check Feature
 - [x] File Store
 - [x] Purge, Paste, Telegraph
+- [x] Json, Zombies
+- [x] Music Downloader
+- [x] Link Generator
+- [x] Url Shortner, Google Translator
+- [x] Password Generator
+- [x] YT Thumb, Paste
 ## Variables
 
 Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up with your edits.
@@ -83,12 +89,16 @@ python3 bot.py
 * /filters - view filters
 * /connect - connect to PM.
 * /disconnect - disconnect from PM
+* /connections - to know how which group is connected
+* /settings - settings of connected groups
 * /del - delete a filter
 * /delall - delete all filters
 * /deleteall - delete all index(autofilter)
 * /delete - delete a specific file from index.
 * /info - get user info
 * /id - get tg ids.
+* /json - json
+* /purge - to delete whole messege from you selected (only two days time(
 * /imdb - fetch info from imdb.
 • /users - to get list of my users and ids.
 • /chats - to get list of the my chats and ids 
