@@ -118,7 +118,7 @@ python3 bot.py
 [![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/TeamEvamaria)
 
 ## Credits 
-* [![NEWBOT-Devs](https://img.shields.io/static/v1?label=Newbots&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
+* [![NEWBOT-Devs](https://img.shields.io/static/v1?label=Newbots&message=devs&color=critical)](https://telegram.dog/lord1of5darkness9)
 
 
 ## Thanks to 
