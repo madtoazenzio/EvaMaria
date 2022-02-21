@@ -2,13 +2,13 @@
   <img src="https://telegra.ph/file/430d2309b3ee277b4da8b.jpg" alt="HulkBuster">
 </p>
 <h1 align="center">
-  <b>Movie World × HulkBuster</b>
+  <b>New Name will be Published</b>
 </h1>
 
 
-[![Stars](https://img.shields.io/github/stars/SpideyserTG/HulkBusterBot?style=flat-square&color=yellow)](https://github.com/SpideyserTG/HulkBusterBot/stargazers)
-[![Forks](https://img.shields.io/github/forks/SpideyserTG/HulkBusterBot?style=flat-square&color=orange)](https://github.com/SpideyserTG/HulkBusterBot/fork)
-[![Size](https://img.shields.io/github/repo-size/SpideyserTG/HulkBusterBot?style=flat-square&color=green)](https://github.com/SpideyserTG/HulkBusterBot/)   
+[![Stars](https://img.shields.io/github/stars/SpideyserTG/HulkBusterBot?style=curve-square&color=yellow)](https://github.com/SpideyserTG/HulkBusterBot/stargazers)
+[![Forks](https://img.shields.io/github/forks/SpideyserTG/HulkBusterBot?style=curve-square&color=orange)](https://github.com/SpideyserTG/HulkBusterBot/fork)
+[![Size](https://img.shields.io/github/repo-size/SpideyserTG/HulkBusterBot?style=curve-square&color=green)](https://github.com/SpideyserTG/HulkBusterBot/)   
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/SpiderserTG/HulkBusterBot)   
 [![Contributors](https://img.shields.io/github/contributors/SpideyserTG/HulkBusterBot?style=flat-square&color=green)](https://github.com/SpideyserTG/HulkBusterBot/graphs/contributors)
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/SpiderserTG/HulkBusterBot/blob/main/LICENSE)
