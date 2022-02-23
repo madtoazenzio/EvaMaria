@@ -129,9 +129,9 @@ python3 bot.py
  - Thanks To Subin Bro [Evamaria]✓
  - Thanks To All Everyone In This Journey
 
-### Note
-
-[Note To A So Called Dev](https://telegram.dog/subin_works/203): 
+<p align="center">
+  <b>Note</b>
+</p>
 
 Kanging this codes and and editing a few lines and releasing a V.x  or an [alpha](https://telegram.dog/subin_works/204), beta , gama branches of your repo won't make you a Developer.
 Fork the repo and edit as per your needs.
