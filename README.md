@@ -113,25 +113,31 @@ python3 bot.py
 • /batch - to create link for multiple posts
 • /link - to create link for one post
 ```
-## Support
+<h1 align="center">
+  <b>Support</b>
+</h1>
 [![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/Starkbotz)
 [![telegram badge](https://img.shields.io/badge/Telegram-Group_2-30302f?style=flat&logo=telegram)](https://telegram.dog/mwpro11)
 [![telegram badge](https://img.shields.io/badge/Lord_SA-30302f?style=curve-square&logo=telegram)](https://telegram.dog/lord1of5darkness9)
 
-## Credits 
+<h1 align="center">
+  <b>Credits</b>
+</h1>
 [![Dr Doom-Devs](https://img.shields.io/static/v1?label=Dr_Doom&message=Devs&color=critical)](https://telegram.dog/lord1of5darkness9)
 
 
-## Thanks to 
+<h1 align="center">
+  <b>Thanks To</b>
+</h1>
  - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
  - Thanks To Mahesh For His Awesome [Media-Search-bot](https://github.com/Mahesh0253/Media-Search-bot)
  - Thanks To [Trojanz](https://github.com/trojanzhex) for Their Awesome [Unlimited Filter Bot](https://github.com/TroJanzHEX/Unlimited-Filter-Bot) And [AutoFilterBoT](https://github.com/trojanzhex/auto-filter-bot)
  - Thanks To Subin Bro [Evamaria]✓
  - Thanks To All Everyone In This Journey
 
-<p align="center">
+<h1 align="center">
   <b>Note</b>
-</p>
+</h1>
 
 Kanging this codes and and editing a few lines and releasing a V.x  or an [alpha](https://telegram.dog/subin_works/204), beta , gama branches of your repo won't make you a Developer.
 Fork the repo and edit as per your needs.
