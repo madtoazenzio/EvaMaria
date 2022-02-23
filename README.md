@@ -6,8 +6,8 @@
 </h1>
 
 
-[![Stars](https://img.shields.io/github/stars/SpideyserTG/HulkBusterBot?style=curve-square&color=yellow)](https://github.com/SpideyserTG/HulkBusterBot/stargazers)
-[![Forks](https://img.shields.io/github/forks/SpideyserTG/HulkBusterBot?style=curve-square&color=orange)](https://github.com/SpideyserTG/HulkBusterBot/fork)
+[![Stars](https://img.shields.io/github/stars/SpideyserTG/HulkBusterBot?style=curve-square&color=red)](https://github.com/SpideyserTG/HulkBusterBot/stargazers)
+[![Forks](https://img.shields.io/github/forks/SpideyserTG/HulkBusterBot?style=curve-square&color=red)](https://github.com/SpideyserTG/HulkBusterBot/fork)
 [![Size](https://img.shields.io/github/repo-size/SpideyserTG/HulkBusterBot?style=curve-square&color=green)](https://github.com/SpideyserTG/HulkBusterBot/)   
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/SpiderserTG/HulkBusterBot)   
 [![Contributors](https://img.shields.io/github/contributors/SpideyserTG/HulkBusterBot?style=curve-square&color=green)](https://github.com/SpideyserTG/HulkBusterBot/graphs/contributors)
