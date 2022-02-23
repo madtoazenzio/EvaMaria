@@ -116,9 +116,10 @@ python3 bot.py
 ## Support
 [![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/Starkbotz)
 [![telegram badge](https://img.shields.io/badge/Telegram-Group_2-30302f?style=flat&logo=telegram)](https://telegram.dog/mwpro11)
+[![telegram badge](https://img.shields.io/badge/Lord_SA-30302f?style=curve-square&logo=telegram)](https://telegram.dog/lord1of5darkness9)
 
 ## Credits 
-* [![NEWBOT-Devs](https://img.shields.io/static/v1?label=Newbots&message=devs&color=critical)](https://telegram.dog/lord1of5darkness9)
+[![Dr Doom-Devs](https://img.shields.io/static/v1?label=Dr_Doom&message=Devs&color=critical)](https://telegram.dog/lord1of5darkness9)
 
 
 ## Thanks to 
