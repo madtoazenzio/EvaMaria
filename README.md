@@ -37,7 +37,7 @@
 - [x] YT Thumb, Paste
 ## Variables
 
-Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up with your edits.
+Read [this](https://telegram.dog/nonakanw/1) before you start messing up with your edits.
 
 ### Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
@@ -52,7 +52,7 @@ Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up wi
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
 * Check [info.py](https://github.com/SpideyserTG/Hulkbusterbot/blob/master/info.py) for more
-
+* More Variebles exist
 
 ## Deploy
 You can deploy this bot anywhere.
