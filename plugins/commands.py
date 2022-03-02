@@ -13,6 +13,10 @@ from database.users_chats_db import db
 from info import CHANNELS, ADMINS, AUTH_CHANNEL, LOG_CHANNEL, PICS, BATCH_FILE_CAPTION, CUSTOM_FILE_CAPTION, PROTECT_CONTENT
 from utils import get_settings, get_size, is_subscribed, save_group_settings, temp
 from database.connections_mdb import active_connection
+from telegraph import upload_file
+from googletrans import Translator
+from .list import list
+from database.gtrans_mdb import find_one
 import re
 import json
 import base64
@@ -635,3 +639,86 @@ async def callback_query_previous(_, message):
         ),
         parse_mode="markdown",
     )
+@Client.on_message(filters.command(["tgmedia", "tgraph", "telegraph"]))
+async def telegraph(client, message):
+    replied = message.reply_to_message
+    if not replied:
+        await message.reply("Reply to a supported media file")
+        return
+    if not (
+        (replied.photo and replied.photo.file_size <= 5242880)
+        or (replied.animation and replied.animation.file_size <= 5242880)
+        or (
+            replied.video
+            and replied.video.file_name.endswith(".mp4")
+            and replied.video.file_size <= 5242880
+        )
+        or (
+            replied.document
+            and replied.document.file_name.endswith(
+                (".jpg", ".jpeg", ".png", ".gif", ".mp4"),
+            )
+            and replied.document.file_size <= 5242880
+        )
+    ):
+        await message.reply("Not supported!")
+        return
+    download_location = await client.download_media(
+        message=message.reply_to_message,
+        file_name="root/downloads/",
+    )
+    try:
+        response = upload_file(download_location)
+    except Exception as document:
+        await message.reply(message, text=document)
+    else:
+        await message.reply(
+            f"<b>Link:-</b>\n\n <code>https://telegra.ph{response[0]}</code>",
+            quote=True,
+            reply_markup=InlineKeyboardMarkup(
+            [
+                [
+                    InlineKeyboardButton(text="Open Link", url=f"https://telegra.ph{response[0]}"),
+                    InlineKeyboardButton(text="Share Link", url=f"https://telegram.me/share/url?url=https://telegra.ph{response[0]}")
+                ],
+                [InlineKeyboardButton(text="Back", callback_data="help")]
+            ]
+        )
+    )
+    finally:
+        os.remove(download_location)
+ 
+@Client.on_message(filters.command(["tr"]))
+async def left(client,message):
+	if (message.reply_to_message):
+		try:
+			lgcd = message.text.split("/tr")
+			lg_cd = lgcd[1].lower().replace(" ", "")
+			tr_text = message.reply_to_message.text
+			translator = Translator()
+			translation = translator.translate(tr_text,dest = lg_cd)
+			hehek = InlineKeyboardMarkup(
+                                [
+                                    [
+                                        InlineKeyboardButton(
+                                            text=f"translated from {translation.src} to {translation.dest}", url="https://cloud.google.com/translate/docs/languages"
+                                        )
+                                    ],
+                                ]
+                            )
+			try:
+				for i in list:
+					if list[i]==translation.src:
+						fromt = i
+					if list[i] == translation.dest:
+						to = i 
+				await message.reply_text(f"```{translation.text}```", reply_markup=hehek, reply_to_message_id=message.reply_to_message.message_id)
+			except:
+			   	await message.reply_text(f"```{translation.text}```", reply_markup=hehek, reply_to_message_id=message.reply_to_message.message_id)
+			
+
+		except :
+			print("error")
+	else:
+			 ms = await message.reply_text("You can Use This Command by using reply to message")
+			 await ms.delete()
