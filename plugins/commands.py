@@ -29,7 +29,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('🤖 𝚂𝚄𝙿𝙿𝙾𝚁𝚃', url='https://t.me/mwpro11')
+                InlineKeyboardButton('🤖 𝚂𝚄𝙿𝙿𝙾𝚁𝚃', url='https://t.me/Nex_Movies_Group')
             ],
             [
                 InlineKeyboardButton('ℹ️ 𝙷𝙴𝙻𝙿', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -50,9 +50,9 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('🔍 𝚂𝙴𝙰𝚁𝙲𝙷', switch_inline_query_current_chat='')
             ],[
-            InlineKeyboardButton('🤖 𝚂𝚄𝙿𝙿𝙾𝚁𝚃', url='https://t.me/mwpro11'),    
-            InlineKeyboardButton('🖥 𝙲𝙷𝙰𝙽𝙽𝙴𝙻', url='https://t.me/+L2zAsilYH3I0OWNl'),
-            InlineKeyboardButton('🎬 𝙶𝚁𝙾𝚄𝙿', url='https://t.me/Starkbotz')
+            InlineKeyboardButton('🤖 𝚂𝚄𝙿𝙿𝙾𝚁𝚃', url='https://t.me/Nex_Movies_Group'),    
+            InlineKeyboardButton('🖥 𝙲𝙷𝙰𝙽𝙽𝙴𝙻', url='https://t.me/+wfEnWYW80JEwY2Y1'),
+            InlineKeyboardButton('🎬 𝙶𝚁𝙾𝚄𝙿', url='https://t.me/Nex_Movies_Group')
             ],[
             InlineKeyboardButton('ℹ️ 𝙷𝙴𝙻𝙿', callback_data='help'),
             InlineKeyboardButton('😊 𝙰𝙱𝙾𝚄𝚃', callback_data='about')
