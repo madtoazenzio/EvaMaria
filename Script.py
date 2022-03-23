@@ -1,6 +1,6 @@
 class script(object):
     START_TXT = """𝐇𝔢𝔩𝔩𝔬 {},
-𝐌𝔶 𝐍𝔞𝔪𝔢 𝐈𝔰 <a href=https://t.me/{}>{}</a>,𝐈 𝐂𝔞𝔫 𝐏𝔯𝔬𝔳𝔦𝔡𝔢 𝐌𝔬𝔳𝔦𝔢𝔰, 𝐉𝖚𝖘𝖙 𝐀𝖉𝖉 𝐌𝖊 𝐓𝖔 𝐘𝖔𝖚𝖗 𝐆𝖗𝖔𝖚𝖕 𝐀𝖓𝖉 𝐄𝖓𝖏𝖔𝖞 💔,
+ᴍy ɴᴀᴍᴇ ɪꜱ <a href=https://t.me/{}>{}</a>,ɪ ᴄᴀɴ ᴩʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇꜱ, ᴊᴜꜱᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ yᴏᴜʀ ɢʀᴏᴜᴩ ᴀꜱ ᴀᴅᴍɪɴ 💔,
 © 𝔇𝔯 𝔇𝔬𝔬𝔪
 © <a href=https://t.me/StarkBotz>𝔖𝔱𝔞𝔯𝔨𝔅𝔬𝔱𝔷</a>
 © <a href=https://t.me/lord1of5darkness9>𝔏𝔬𝔯𝔡 𝔬𝔣 𝔇𝔞𝔯𝔨𝔫𝔢𝔰𝔰</a>"""
