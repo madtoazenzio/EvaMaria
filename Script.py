@@ -1,24 +1,24 @@
 class script(object):
     START_TXT = """𝐇𝔢𝔩𝔩𝔬 {},
 ᴍy ɴᴀᴍᴇ ɪꜱ <a href=https://t.me/{}>{}</a>,ɪ ᴄᴀɴ ᴩʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇꜱ, ᴊᴜꜱᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ yᴏᴜʀ ɢʀᴏᴜᴩ ᴀꜱ ᴀᴅᴍɪɴ 💔,
-© 𝔇𝔯 𝔇𝔬𝔬𝔪
-© <a href=https://t.me/StarkBotz>𝔖𝔱𝔞𝔯𝔨𝔅𝔬𝔱𝔷</a>
-© <a href=https://t.me/lord1of5darkness9>𝔏𝔬𝔯𝔡 𝔬𝔣 𝔇𝔞𝔯𝔨𝔫𝔢𝔰𝔰</a>"""
+© 𝕭𝖑𝖆𝖈𝖐 𝕻𝖆𝖓𝖙𝖍𝖊𝖗
+© <a href=https://t.me/+wfEnWYW80JEwY2Y1>𝙼𝙻𝙼 𝙽𝙴𝚆 𝙼𝙾𝚅𝙸𝙴𝚂</a>
+© <a href=https://t.me/+wfEnWYW80JEwY2Y1>𝙼𝙻𝙼 𝙻𝙸𝙽𝙺𝚂</a>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝐻𝔢𝔯𝔢 𝐼𝔰 𝑇𝔥𝔢 𝐻𝔢𝔩𝔭 𝐹𝔬𝔯 𝑀𝔶 𝐶𝔬𝔪𝔪𝔞𝔫𝔡𝔰."""
     ABOUT_TXT = """⫷⫸⫷⫸⫷⫸⫷⫸⫷⫸⫷⫸⫷⫸⫷⫸
 ⫷⫸✯ 『𝙼𝚈 𝙽𝙰𝙼𝙴』: 『{}』
-⫷⫸✯ 『𝙲𝚁𝙴𝙰𝚃𝙾𝚁』: <a href=https://t.me/lord1of5darkness9>𝕷𝖔𝖗𝖉 𝖔𝖋 𝕯𝖆𝖗𝖐𝖓𝖊𝖘𝖘</a>
+⫷⫸✯ 『𝙲𝚁𝙴𝙰𝚃𝙾𝚁』: <a href=https://t.me/+wfEnWYW80JEwY2Y1>ᴍʟᴍ ɴᴇᴡ ᴍᴏᴠɪᴇꜱ</a>
 ⫷⫸✯ 『𝙻𝙸𝙱𝚁𝙰𝚁𝚈』: <a href=https://docs.pyrogram.org/>𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a>
 ⫷⫸✯ 『𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴』: <a href=https://www.python.org/>𝙿𝚈𝚃𝙷𝙾𝙽 𝟹</a>
 ⫷⫸✯ 『𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴』: <a href=https://www.mongodb.com/>𝙼𝙾𝙽𝙶𝙾 𝙳𝙱</a>
 ⫷⫸✯ 『𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁』: <a href=https://id.heroku.com/login>𝙷𝙴𝚁𝙾𝙺𝚄</a>
-⫷⫸✯ 『𝙼𝙰𝙸𝙽𝚃𝙰𝙸𝙽𝙴𝙳 𝙱𝚈』: <a href=https://t.me/Starkbotz>𝔖𝔱𝔞𝔯𝔨𝔅𝔬𝔱𝔷</a> , <a href=https://t.me/mwpro11>𝔐𝔬𝔳𝔦𝔢𝔚𝔬𝔯𝔩𝔡</a>
+⫷⫸✯ 『𝙼𝙰𝙸𝙽𝚃𝙰𝙸𝙽𝙴𝙳 𝙱𝚈』: <a href=https://t.me/+wfEnWYW80JEwY2Y1>ᴍʟᴍ ɴᴇᴡ ᴍᴏᴠɪᴇꜱ</a> , <a href=https://t.me/+wfEnWYW80JEwY2Y1>ᴍʟᴍ ʟɪɴᴋꜱ</a>
 ⫷⫸✯ 『𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂』: v8.0.3 [ 𝙱𝙴𝚃𝙰 ]
 ⫷⫸⫷⫸⫷⫸⫷⫸⫷⫸⫷⫸⫷⫸⫷⫸"""
     SOURCE_TXT = """<b>𝐍𝔬𝔱𝔢:</b>
-✯ <b>𝔇𝔯 𝔇𝔬𝔬𝔪</b> 𝐈𝔰 𝐀 𝐏𝔯𝔦𝔳𝔞𝔱𝔢 𝐒𝔬𝔲𝔯𝔠𝔢 𝐏𝔯𝔬𝔧𝔢𝔠𝔱. 
-     <b>✯ 𝐒𝔬𝔲𝔯𝔠𝔢 ✯</b>
+✯ <b>𝕭𝖑𝖆𝖈𝖐 𝕻𝖆𝖓𝖙𝖍𝖊𝖗</b> 𝐈𝔰 𝐀 𝐏𝔯𝔦𝔳𝔞𝔱𝔢 𝐒𝔬𝔲𝔯𝔠𝔢 𝐏𝔯𝔬𝔧𝔢𝔠𝔱. 
+     <b>✯ ᴄᴏᴅᴇꜱ ᴛᴀᴋᴇɴ ✯</b>
 ✯ - <a href=https://t.me/mwpro11>𝔐𝔦𝔳𝔦𝔢𝔚𝔬𝔯𝔩𝔡</a>
 ✯ - <a href=https://t.me/Starkbotz>𝔖𝔱𝔞𝔯𝔨𝔅𝔬𝔱𝔷</a>  
 
