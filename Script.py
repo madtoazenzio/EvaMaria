@@ -19,11 +19,11 @@ class script(object):
     SOURCE_TXT = """<b>𝐍𝔬𝔱𝔢:</b>
 ✯ <b>𝕭𝖑𝖆𝖈𝖐 𝕻𝖆𝖓𝖙𝖍𝖊𝖗</b> 𝐈𝔰 𝐀 𝐏𝔯𝔦𝔳𝔞𝔱𝔢 𝐒𝔬𝔲𝔯𝔠𝔢 𝐏𝔯𝔬𝔧𝔢𝔠𝔱. 
      <b>✯ ᴄᴏᴅᴇꜱ ᴛᴀᴋᴇɴ ✯</b>
-✯ - <a href=https://t.me/mwpro11>𝔐𝔦𝔳𝔦𝔢𝔚𝔬𝔯𝔩𝔡</a>
-✯ - <a href=https://t.me/Starkbotz>𝔖𝔱𝔞𝔯𝔨𝔅𝔬𝔱𝔷</a>  
+✯ - <a href=https://github.com/Mahesh0253/Media-Search-bot>ɪɴʟɪɴᴇ ꜱᴇᴀʀᴄʜ ʙᴏᴛ</a>
+✯ - <a href=https://github.com/KisaraPesanjithPerera/Captain-Price>ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ</a>  
 
 <b>𝔇𝔢𝔳𝔢𝔩𝔬𝔭𝔢𝔯:</b>
-- <a href=https://t.me/lird1of5darkness9>𝕷𝖔𝖗𝖉 𝖔𝖋 𝕯𝖆𝖗𝖐𝖓𝖊𝖘𝖘</a>"""
+- <a href=https://t.me/Nex_Movies_Group>xʀᴏɪᴅ</a>"""
     MANUELFILTER_TXT = """𝐇𝔢𝔩𝔭: <b>𝐅𝔦𝔩𝔱𝔢𝔯𝔰</b>
 
 ✯ 🄵🄸🄻🅃🄴🅁 🄸🅂 🅃🄷🄴 🄵🄴🄰🅃🅄🅁🄴 🅆🄴🅁🄴 🅄🅂🄴🅁🅂 🄲🄰🄽 🅂🄴🅃 🄰🅄🅃🄾🄼🄰🅃🄴🄳 🅁🄴🄿🄻🄸🄴🅂 🄵🄾🅁 🄰 🄿🄰🅁🅃🄸🄲🅄🄻🄰🅁 🄺🄴🅈🅆🄾🅁🄳 🄰🄽🄳 🄼🄾🅅🄸🄴 🅆🄾🅁🄻🄳 🅆🄸🄻🄻 🅁🄴🅂🄿🄾🄽🄳 🅆🄷🄴🄽🄴🅅🄴🅁 🄰 🄺🄴🅈🅆🄾🅁🄳 🄸🅂 🄵🄾🅄🄽🄳 🅃🄷🄴 🄼🄴🅂🅂🄰🄶🄴
